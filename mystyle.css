@@ -10,16 +10,24 @@
     position:relative;
     width:100%;
 }
-.sideBar{
+.hero{
     position: absolute;
     width: 100%;
     height: 500px;
     left: 0px;
     top: 80px;
-    
     background: #D9A465;
 }
-
+.hero-text{
+        display:inline-block;
+    }
+.hero-image{
+display: inline-block;
+    width: 447px;
+    height: 479px; 
+    background: black;
+    border-radius: 322px;
+align:top;}
 .sidebarSection{
     height: 100%;
 }
